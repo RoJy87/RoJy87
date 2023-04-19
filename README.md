@@ -71,12 +71,14 @@ Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoCo
 ### :fire: My Stats :
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RoJy87&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=450" />
+    <img align="center"
+        src="http://github-readme-streak-stats.herokuapp.com?user=RoJy87&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=450" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RoJy87&show_icons=true&theme=tokyonight&card_width=450" />
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=RoJy87&show_icons=true&theme=tokyonight&card_width=450" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoJy87&show_icons=true&theme=tokyonight" />
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoJy87&show_icons=true&theme=tokyonight&layout=compact" />
 </a>
-
