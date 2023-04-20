@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Danil</a>
+<h1 align="center">Hi there, I'm Danil
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 <h3 align="center">Student of frontend development courses</h3>
@@ -6,11 +6,11 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
     <div id="badges">
-        <a href="https://t.me/Danilas_38">
+        <a href="https://t.me/Danilas_38" target="_blank">
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
                 alt="telegram Badge" />
         </a>
-        <a href="https://vk.com/s_d_a">
+        <a href="https://vk.com/s_d_a" target="_blank">
             <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white"
                 alt="Vkontakte Badge" />
         </a>
@@ -29,11 +29,11 @@ I'm studying web development. <img src="https://media.giphy.com/media/WUlplcMpOC
 - :zap: In my free time I like to ride a bike with my beloved dog, listen to audiobooks, go to the sea with my family.
 
 - :mailbox:How to reach me: <div id="badges">
-    <a href="https://vk.com/s_d_a">
+    <a href="https://vk.com/s_d_a" target="_blank">
         <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white"
             alt="Vkontakte Badge" />
     </a>
-    <a href="https://t.me/Danilas_38">
+    <a href="https://t.me/Danilas_38" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
             alt="telegram Badge" />
     </a>
@@ -42,8 +42,14 @@ I'm studying web development. <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ---
 
+### 🖥️ My projects :
 <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
+  <a href="https://rojy87.github.io/mesto/"> Mesto - Travellgram
+    <img src="Mesto.gif" width="400" height="240" />
+  </a>
+  <a href="https://rojy87.github.io/russian-travel/">Russian travell - website about traveling in russia
+    <img src="Russian Travell.gif" width="400" height="240" style="pointer-events: none;"/>
+  </a>
 </div>
 
 ---
