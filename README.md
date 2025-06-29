@@ -22,9 +22,7 @@
 
 ### :man_technologist: About Me :
 I'm a web developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I graduated from a web development course.
-
-- :seedling: Exploring HTML, CSS, JavaScript, React, NodeJS.
+- :seedling: Exploring HTML, CSS, JS, TS, React, NodeJS.
 
 - :zap: In my free time I like to ride a bike with my beloved dog, listen to audiobooks, go to the sea with my family.
 
@@ -38,28 +36,6 @@ I'm a web developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
             alt="telegram Badge" />
     </a>
 
-</div>
-
----
-
-### 🖥️ My projects :
-<div align="left">
-    <a href="https://simon.movies.nomoredomains.xyz"> Movies - Сервис поиска видео на Youtube </a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"
-        **alt="Git" width="25" height="25" />
-    <a href="https://github.com/RoJy87/movies"> GitHub </a>
-</div>
-<div align="left">
-    <a href="https://simon.mesto.nomoreparties.sbs"> Mesto - Travellgram</a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"
-        **alt="Git" width="25" height="25" />
-    <a href="https://github.com/RoJy87/react-mesto-api-full-gha"> GitHub </a>
-</div>
-<div align="left">
-    <a href="https://rojy87.github.io/russian-travel/">Russian travell - website about traveling in russia</a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"
-        **alt="Git" width="25" height="25" />
-    <a href="https://github.com/RoJy87/russian-travel"> GitHub </a>
 </div>
 
 ---
