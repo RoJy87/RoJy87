@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Danil
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
-<h3 align="center">Student of frontend development courses</h3>
+<h3 align="center">Frontend developer</h3>
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
